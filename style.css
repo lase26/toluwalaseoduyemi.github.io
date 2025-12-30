@@ -27,7 +27,7 @@
     --bg-color: #0a120d;
     --text-color: #ecfdf5;
     --shadow-color: rgba(0, 0, 0, .7);
-    --home-bg: url("images/homebg.jpeg");
+    --home-bg: url("images/homebg.jpeg?raw=true");
     --glow-color: #2dd4bf;
 }
 
